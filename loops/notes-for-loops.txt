@@ -1,0 +1,2 @@
+#notes on for loops
+#for loops start with 'for' and ends with 'done'.
